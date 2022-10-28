@@ -1,0 +1,26 @@
+body {
+    background: #000000;
+}
+
+#puzzlebck {
+    width: 800px;
+    height: 600px;
+    position: relative;
+    background: #0f0f0f;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    border: 10px;
+    border-color: white;
+    border-radius: 0px;
+    transform: translateX(35%);
+}
+
+button {
+    text-align: center;
+    margin-top: 15px;
+    transform: translateX(400%);
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background: #234326;
+    color: white;
+}
